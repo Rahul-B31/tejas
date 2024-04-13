@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-	return 0
+	cout<<"The change happen in remote";
+	return 0;
 }
 
